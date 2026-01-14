@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+my_env/
+venv/
+.env/
+
+# Model / cache
+model_cache/
+
+# Outputs / reports
+reports/
+*.out
+*.log
+run.txt
+
+# SLURM
+slurm-*.out
+
+# Local venv
+.venv/
+
+# Figures / generated images
+figures/

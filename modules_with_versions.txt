@@ -1,0 +1,84 @@
+---------------------------------------------------------- /data/modules/site -----------------------------------------------------------
+   modulerc    r/4.4.1
+
+---------------------------------------- /data/modules/spack/linux-almalinux9-x86_64/gcc/13.2.0 -----------------------------------------
+   Core/slurm/23.11.6-s4o5ju2                                   gcc/13.2.0/openblas/0.3.28-j3hyvme                            (D)
+   gcc/13.2.0                                                   gcc/13.2.0/openjdk/11.0.20.1_1
+   gcc/13.2.0/autoconf/2.69-qbeixex                             gcc/13.2.0/openjdk/17.0.11_9-t5dmlrl                          (D)
+   gcc/13.2.0/automake/1.16.2-em2dw5b                           gcc/13.2.0/openmpi/4.1.2
+   gcc/13.2.0/berkeley-db/18.1.40-7vloiqs                       gcc/13.2.0/openmpi/4.1.6                                      (D)
+   gcc/13.2.0/bison/3.7.4-gg5smhz                               gcc/13.2.0/openssh/9.5p1-vbpufqd
+   gcc/13.2.0/bzip2/1.0.8-in4q55n                               gcc/13.2.0/openssl/3.0.7-aexnp7c
+   gcc/13.2.0/bzip2/1.0.8-yj54rpm                        (D)    gcc/13.2.0/openssl/3.1.3                                      (D)
+   gcc/13.2.0/c-blosc/1.21.5-sjdccbw                            gcc/13.2.0/pcre2/10.42-2vrjsns
+   gcc/13.2.0/ca-certificates-mozilla/2023-05-30-ozfxtfl        gcc/13.2.0/pcre2/10.44-m3oglgk                                (D)
+   gcc/13.2.0/cmake/3.27.7-da4t3a5                              gcc/13.2.0/perl/5.32.1-upywqz6
+   gcc/13.2.0/curl/7.76.1-47kl5qx                               gcc/13.2.0/perl/5.38.0                                        (D)
+   gcc/13.2.0/curl/8.4.0-gd5j35j                         (D)    gcc/13.2.0/pgplot/5.2.2
+   gcc/13.2.0/diffutils/3.9-wni5k5n                             gcc/13.2.0/pkgconf/1.7.3-qdqngrx
+   gcc/13.2.0/diffutils/3.10-rrc272g                     (D)    gcc/13.2.0/pmix/4.2.2-s3ntdpy
+   gcc/13.2.0/expat/2.5.0-2z4qqjg                               gcc/13.2.0/pmix/5.0.1-t5gienh                                 (D)
+   gcc/13.2.0/expat/2.6.4-pjd5yhu                        (D)    gcc/13.2.0/py-cython/3.0.4-x32nwk7
+   gcc/13.2.0/findutils/4.8.0-fgurw46                           gcc/13.2.0/py-flit-core/3.9.0-wnybzqo
+   gcc/13.2.0/flex/2.6.4-w5m43hf                                gcc/13.2.0/py-numpy/1.26.1-zgoy4vr
+   gcc/13.2.0/gcc-runtime/13.2.0-5fuupnj                        gcc/13.2.0/py-packaging/23.1-l5axtjy
+   gcc/13.2.0/gdbm/1.23-h62vofo                                 gcc/13.2.0/py-pip/23.1.2-t4x32gv
+   gcc/13.2.0/gdbm/1.24-iznxe72                          (D)    gcc/13.2.0/py-pyproject-metadata/0.7.1-bsrva4e
+   gcc/13.2.0/gettext/0.22.3-aok3sd6                            gcc/13.2.0/py-setuptools/68.0.0-ttdcqvh
+   gcc/13.2.0/gettext/0.22.5-wdqb33g                     (D)    gcc/13.2.0/py-wheel/0.41.2-274nsbj
+   gcc/13.2.0/glibc/2.34-d22ycnm                                gcc/13.2.0/python/3.8.18
+   gcc/13.2.0/gmake/4.3-47tzqvj                                 gcc/13.2.0/python/3.9.18
+   gcc/13.2.0/hwloc/2.9.1-ji6dq7y                               gcc/13.2.0/python/3.10.13
+   gcc/13.2.0/icu4c/67.1-5c5hd5j                                gcc/13.2.0/python/3.11.6
+   gcc/13.2.0/icu4c/74.2-mctb273                         (D)    gcc/13.2.0/python/3.13.0-as6p2e2                              (D)
+   gcc/13.2.0/intel-oneapi-mpi/2021.14.0                        gcc/13.2.0/r/4.3.0
+   gcc/13.2.0/jasper/3.0.3-ayy35x5                              gcc/13.2.0/r/4.4.1                                            (D)
+   gcc/13.2.0/krb5/1.20.1-czqguu4                               gcc/13.2.0/re2c/2.2-g74kjo6
+   gcc/13.2.0/krb5/1.21.3-2m6ufw6                        (D)    gcc/13.2.0/readline/8.2-jddanlh
+   gcc/13.2.0/libaec/1.0.6-botzyz4                              gcc/13.2.0/readline/8.2-ndclxsm                               (D)
+   gcc/13.2.0/libbsd/0.11.7-u5p6ho2                             gcc/13.2.0/snappy/1.1.10-zeqohga
+   gcc/13.2.0/libbsd/0.12.2-vhluxl6                      (D)    gcc/13.2.0/sqlite/3.43.2-j5q5mru
+   gcc/13.2.0/libedit/3.1-20210216-lujz2sr                      gcc/13.2.0/sqlite/3.46.0-sc7cqz3                              (D)
+   gcc/13.2.0/libevent/2.1.12-i3g6lyb                           gcc/13.2.0/swig/4.1.1-7y7qcjf
+   gcc/13.2.0/libffi/3.4.4-w3evifh                              gcc/13.2.0/tar/1.34-cdrsko3
+   gcc/13.2.0/libffi/3.4.6-yuvf4va                       (D)    gcc/13.2.0/tcsh/6.24.00-dwfzsuj
+   gcc/13.2.0/libiconv/1.17-ud7yflr                             gcc/13.2.0/texinfo/7.0.3-lsc6j7l
+   gcc/13.2.0/libidn2/2.3.4-vyz75h5                             gcc/13.2.0/texinfo/7.1-rckny66                                (D)
+   gcc/13.2.0/libjpeg-turbo/3.0.0-xtxfhrz                       gcc/13.2.0/time/1.9-6jhcjvt
+   gcc/13.2.0/libmd/1.0.4-le4gvhj                               gcc/13.2.0/util-linux-uuid/2.38.1-jbdf6kv
+   gcc/13.2.0/libmd/1.0.4-7mqb53p                        (D)    gcc/13.2.0/util-linux-uuid/2.40.2-mozwi5a                     (D)
+   gcc/13.2.0/libpciaccess/0.17-5pqozvg                         gcc/13.2.0/util-macros/1.19.3-dhz54jq
+   gcc/13.2.0/libpng/1.6.39-eoumisv                             gcc/13.2.0/which/2.21-ctf5hoe
+   gcc/13.2.0/libtirpc/1.3.3-n7glze7                            gcc/13.2.0/which/2.21-7j77sn6                                 (D)
+   gcc/13.2.0/libtirpc/1.3.3-ywue6p2                     (D)    gcc/13.2.0/xz/5.4.1-t3t3mbu
+   gcc/13.2.0/libtool/2.4.6-dm6mz2c                             gcc/13.2.0/xz/5.4.6-jeu5u5y                                   (D)
+   gcc/13.2.0/libunistring/1.1-mtkb3b3                          gcc/13.2.0/zlib-ng/2.1.4-qybizis
+   gcc/13.2.0/libxcrypt/4.4.35-tey4hlq                          gcc/13.2.0/zlib-ng/2.2.1-vsvr4z7                              (D)
+   gcc/13.2.0/libxml2/2.10.3-3mgdzkq                            gcc/13.2.0/zstd/1.5.5-dsqmnnd
+   gcc/13.2.0/libxml2/2.13.4-wlcenjw                     (D)    intel-oneapi-mpi/2021.14.0
+   gcc/13.2.0/lz4/1.9.4-sqsi24v                                 openmpi/4.1.6-3jzvksl/gcc/13.2.0/fftw/3.3.10
+   gcc/13.2.0/m4/1.4.19-hhjnks5                                 openmpi/4.1.6-3jzvksl/gcc/13.2.0/hdf5/1.14.3-mox775z
+   gcc/13.2.0/nasm/2.15.05-4sgtmk3                              openmpi/4.1.6-3jzvksl/gcc/13.2.0/hdf5/1.14.3-wz5in57
+   gcc/13.2.0/ncurses/6.4-g7mp6ej                               openmpi/4.1.6-3jzvksl/gcc/13.2.0/hdf5/1.14.3                  (D)
+   gcc/13.2.0/ncurses/6.5-rx62i32                        (D)    openmpi/4.1.6-3jzvksl/gcc/13.2.0/netcdf-c/4.9.2-jpuxyc6
+   gcc/13.2.0/nghttp2/1.57.0-kc3b4tg                            openmpi/4.1.6-3jzvksl/gcc/13.2.0/netcdf-c/4.9.2               (D)
+   gcc/13.2.0/ninja/1.11.1-iqfjdzs                              openmpi/4.1.6-3jzvksl/gcc/13.2.0/netcdf-fortran/4.6.1-wpe6rcd
+   gcc/13.2.0/nlopt/2.7.0                                       openmpi/4.1.6-3jzvksl/gcc/13.2.0/netcdf-fortran/4.6.1         (D)
+   gcc/13.2.0/numactl/2.0.14-kleda6l                            openmpi/4.1.6-3jzvksl/gcc/13.2.0/parallel-netcdf/1.12.3
+   gcc/13.2.0/openblas/0.3.24-ksuo5sa                           openmpi/4.1.6-3jzvksl/gcc/13.2.0/wrf/4.5.1
+
+------------------------------------------------------- /opt/ohpc/pub/modulefiles -------------------------------------------------------
+   cmake/4.1.2     gnu13/13.2.0 (L)    intel/2024.2.0.rpmsave    os            prun/2.2
+   gnu12/12.2.0    hwloc/2.12.0        libfabric/1.18.0          pmix/4.2.9    spack/1.0.2
+
+  Where:
+   D:  Default Module
+   L:  Module is loaded
+
+If the avail list is too long consider trying:
+
+"module --default avail" or "ml -d av" to just list the default modules.
+"module overview" or "ml ov" to display the number of modules for each name.
+
+Use "module spider" to find all possible modules and extensions.
+Use "module keyword key1 key2 ..." to search for all possible modules matching any of the "keys".

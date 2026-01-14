@@ -1,0 +1,12 @@
+Hostname: klinaklini.unbc.ca
+Operating System: AlmaLinux 9.7 (Moss Jungle Cat)
+Login Node FreeMem: 4.5Gi / 187Gi
+Compute Nodes Mem: FreeMem / 187Gi
+Node List: compute1: 185Gi    compute2: 185Gi    compute4: 172Gi   
+Node List: compute5: 185Gi    compute6: 184Gi    compute7: 184Gi   
+Node List: compute8: 184Gi    compute9: 185Gi    compute10: 185Gi   
+Node List: compute11: 185Gi    compute12: 185Gi    compute13: 185Gi   
+Node List: compute14: 185Gi    compute15: 185Gi    compute16: 177Gi   
+Disk Usage: 854T / 1.2P
+Total Users: 87
+Login Node: Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz (1 cores)
